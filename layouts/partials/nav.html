@@ -1,0 +1,16 @@
+<nav class="nav">
+  <a class="nav-link" href="/">Home</a>
+  <a class="nav-link" href="/about/">About</a>
+  <a class="nav-link" href="/posts/">Blog</a>
+  <a class="nav-link" href="/meal/">Meal</a>
+</nav>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const navLinks = document.querySelectorAll(".nav-link");
+    navLinks.forEach((link) => {
+      if (link.href === window.location.href) {
+        link.classList.add("active");
+      }
+    });
+  });
+</script>

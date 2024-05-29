@@ -1,0 +1,27 @@
+- name: Cannon Beach, Oregon
+  latitude: 45.8892
+  longitude: -123.9615
+- name: Chicago, IL
+  latitude: 41.8781
+  longitude: -87.6298
+- name: Redwood Forest, CA
+  latitude: 41.2132
+  longitude: -124.0046
+- name: Durango, CO
+  latitude: 37.2753
+  longitude: -107.8801
+- name: Cabo San Lucas, Mexico
+  latitude: 22.8909
+  longitude: -109.9167
+- name: Austin, Texas
+  latitude: 30.2672
+  longitude: -97.7431
+- name: Destin, Florida
+  latitude: 30.3935
+  longitude: -86.4958
+- name: Moab, Utah
+  latitude: 38.5733
+  longitude: -109.5498
+- name: Canyonlands National Park, Utah
+  latitude: 38.3269
+  longitude: -109.8783
