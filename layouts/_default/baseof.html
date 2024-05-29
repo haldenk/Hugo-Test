@@ -6,6 +6,7 @@
   {{ partial "nav.html" }}
   <body>
     {{ block "main" . }} {{ end }}
+    <script src="{{ "js/bundle.js" | relURL }}"></script>
   </body>
   {{ partial "footer.html" . }}
 </html>
